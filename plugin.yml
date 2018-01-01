@@ -1,0 +1,11 @@
+name: UltraPlugin
+version: 1.0
+author: jf908
+main: net.xyfe.ultraplugin.UltraPlugin
+commands:
+  ultraevent:
+    description: summons the ultra event
+    usage: /ultraevent x y z
+  train:
+    description: summons a train
+    usage: /train length
